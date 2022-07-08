@@ -1,0 +1,2 @@
+SELECT * 
+FROM `sql-learning-environment.InterviewQuestionAttribution.TBL_OFFER`
